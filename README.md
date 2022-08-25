@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @AnasTechnoKing
-- 👀 I’m interested in Automated Softwares
-- 🌱 I’m currently learning HTML CSS Javascript & Python
 - 📫 How to reach me https://www.linkedin.com/in/anas-aljarrah/
 
 <!---
